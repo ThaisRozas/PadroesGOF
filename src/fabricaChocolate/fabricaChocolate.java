@@ -4,7 +4,7 @@ public class fabricaChocolate {
     private boolean empty; //vazio
     private boolean boiled; //fervido
 
-    //C�digo iniciado quando a Caldeira est� vazia
+    //Codigo iniciado quando a Caldeira est� vazia
     public fabricaChocolate() {     //public constructor!
         empty = true;
         boiled = false;
