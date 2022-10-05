@@ -1,4 +1,4 @@
-package src.fabricaChocolate;
+package src.fabricaChocolateProblema;
 
 public class fabricaChocolate {
     private boolean empty; //vazio
