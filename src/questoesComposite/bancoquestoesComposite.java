@@ -20,7 +20,7 @@ public class bancoquestoesComposite {
         this.descricao = descricao;
     }
 
-    //classes que são implementadas pela interface
+    //classes implementadas pela interface
     public void adicionar(){}
     public void remover(){}
     public void atualizar(){}

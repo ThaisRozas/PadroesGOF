@@ -1,7 +1,7 @@
 package src.questoesComposite;
 import java.io.Console;
 
-//Agrupa todas as operações, interface. Todos os metodos para implementar
+//Agrupa todas as operações, ‘interface’. Todos os metodos para implementar
 
 public abstract class questaodoBanco {
 

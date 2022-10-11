@@ -4,7 +4,7 @@ package src.CardapioComposite;
  * Created by alunod22 on 29/09/2022.
  */
 
-//Agrupa todas as operações, interface. Todos os metodos para implementar
+//Agrupa todas as operações, ‘interface’. Todos os metodos para implementar
 
 public abstract class Item {
 
