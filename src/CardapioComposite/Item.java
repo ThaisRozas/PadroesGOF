@@ -14,7 +14,7 @@ public abstract class Item {
     public void atualizar(Item item){ throw new UnsupportedOperationException(); }
 
     //metodos utilizados pelo opcao
-    public double verPreço(){ throw new UnsupportedOperationException(); }
+    public double verPreco(){ throw new UnsupportedOperationException(); }
     public String verDescricao() { throw new UnsupportedOperationException(); }
     public String verNome() { throw new UnsupportedOperationException(); }
     public boolean verificarVegano() { throw new UnsupportedOperationException(); }

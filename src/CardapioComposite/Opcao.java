@@ -17,7 +17,7 @@ public class Opcao extends Item {
     }
 
     //Chamando os metodos...
-    public double verPreço(){ return preco; }
+    public double verPreco(){ return preco; }
     public String verDescricao() { return descricao; }
     public String verNome() { return nome; }
     public boolean verificarVegano() { return vegano; }
